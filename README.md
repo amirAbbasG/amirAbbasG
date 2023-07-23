@@ -1,4 +1,4 @@
-[![MasterHead]([https://ibb.co/Vv1jSH4](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif))](https://rishavchanda.io)
+[![MasterHead](./App.js.png)](https://rishavchanda.io)
 <h3 align="center">A passionate frontend developer from Iran Mazabdaran</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 

@@ -18,7 +18,7 @@
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amir-hossein-abbas-gholizadeh-171b94209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hossein-abbas-gholizadeh-171b94209" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amir-hossein-abbasgholizade-9a422b13b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hossein-abbas-gholizadeh-171b94209" height="30" width="40" /></a>
 <a href="https://instagram.com/ares_1377?igshid=nmq2zmyxzja=" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ares_1377?igshid=nmq2zmyxzja=" height="30" width="40" /></a>
 </p>
 

@@ -6,7 +6,6 @@
  <br />
 <img align="right" alt="Coding" width="360" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-- 🔭 I’m currently working on [etkala](https://etkala.ir)
 
 - 👨‍💻 All of my projects are available at [https://github.com/amirAbbasG](https://github.com/amirAbbasG)
 

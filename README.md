@@ -1,14 +1,20 @@
 [![MasterHead](./github-header-banner.png)](https://resume-tau-kohl.vercel.app)
 <br />
 <br />
-<h1 align="center">Hi 👋, I'm Amirhossein Abbasgholizade</h1>
-<h3 align="center">A passionate frontend developer from Iran Mazabdaran</h3>
+<h1 align="left">Hi 👋, I'm Amirhossein Abbasgholizade</h1>
+<p align="left">A passionate frontend developer from Mazandaran, Iran, specializing in creating engaging web, mobile, and browser extension experiences.</p>
  <br />
 <img align="right" alt="Coding" width="360" src="https://www.lambdatest.com/resources/images/news24.gif">
 
+- ✨ Student of life :)
+  
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+
+- I’m working on [Nemati AI](https://nemati.ai/), [Web Ease AI](https://chromewebstore.google.com/detail/web-ease-ai-chatgpt-ai-as/kdjcjiijhjhcpbpcnlakjhbaadioecde?hl=en-US&utm_source=ext_sidebar), [Etkala](https://etkala.ir/)
+ 
 - 👨‍💻 All of my projects are available at [https://github.com/amirAbbasG](https://github.com/amirAbbasG)
 
-- 💬 Ask me about **React, Next js, React Native**
+- 💬 Ask me about **React, Next js, React Native and Plasmo**
 
 - 📫 How to reach me **amir.h.abbas.g@gmail.com**
 

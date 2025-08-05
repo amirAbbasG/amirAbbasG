@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Abbasgholizade</h1>
 <h3 align="center">A passionate frontend developer from Iran Mazabdaran</h3>
  <br />
-
+<img align="right" alt="Coding" width="360" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/amirAbbasG](https://github.com/amirAbbasG)
 

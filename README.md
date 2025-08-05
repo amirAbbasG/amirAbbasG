@@ -4,10 +4,12 @@
 <h1 align="left">Hi 👋, I'm Amirhossein Abbasgholizade</h1>
 <p align="left">A passionate frontend developer from Mazandaran, Iran, specializing in creating engaging web, mobile, and browser extension experiences.</p>
  <br />
+ <br />
+
 <img align="right" alt="Coding" width="360" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I believe that everyday is a learning opportunity.
 - 👷‍♂️ I’m working on [Nemati AI](https://nemati.ai/), [Web Ease AI](https://chromewebstore.google.com/detail/web-ease-ai-chatgpt-ai-as/kdjcjiijhjhcpbpcnlakjhbaadioecde?hl=en-US&utm_source=ext_sidebar), [Etkala](https://etkala.ir/)
 - 👨‍💻 All of my personal projects are available at [https://github.com/amirAbbasG](https://github.com/amirAbbasG)
 - 💬 Ask me about **React, Next js, React Native and Plasmo**

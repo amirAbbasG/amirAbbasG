@@ -10,7 +10,7 @@
 
 - ✨ Student of life :)
 - 🌱 I believe that everyday is a learning opportunity.
-- 👷‍♂️ I’m working on [Nemati AI](https://nemati.ai/), [Web Ease AI](https://chromewebstore.google.com/detail/web-ease-ai-chatgpt-ai-as/kdjcjiijhjhcpbpcnlakjhbaadioecde?hl=en-US&utm_source=ext_sidebar), [Etkala](https://etkala.ir/)
+- 👷‍♂️ I’m working on [Nemati AI](https://nemati.ai/), [Web Ease AI](https://chromewebstore.google.com/detail/web-ease-ai-chatgpt-ai-as/kdjcjiijhjhcpbpcnlakjhbaadioecde?hl=en-US&utm_source=ext_sidebar), [AI Summarizer](https://chromewebstore.google.com/detail/ai-summarizer-fast-and-ea/nhiljnodbklfneopmlfhjbeppmdjabdg?hl=en-US&utm_source=ext_sidebar) and [Etkala](https://etkala.ir/)
 - 👨‍💻 All of my personal projects are available at [https://github.com/amirAbbasG](https://github.com/amirAbbasG)
 - 💬 Ask me about **React, Next js, React Native and Plasmo**
 - 📫 How to reach me **amir.h.abbas.g@gmail.com**
